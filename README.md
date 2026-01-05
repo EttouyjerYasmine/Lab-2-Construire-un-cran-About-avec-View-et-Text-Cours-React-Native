@@ -48,3 +48,37 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+# 📱 TP React Native – About Screen
+
+Ce projet est un TP réalisé avec **React Native** et **Expo Router**.  
+Il illustre la création d’un écran `About` avec des composants personnalisés (`AppHeader`, `AppFooter`) et une navigation par onglets.
+
+---
+
+##  Installation
+
+1. **Cloner le projet** :
+   ```bash
+   git clone https://github.com/ton-compte/premier-componenr-rn.git
+   cd ton-projet
+# 📱 TP React Native – About Screen
+
+Ce projet est un TP réalisé avec **React Native** et **Expo Router**.  
+Il illustre la création d’un écran `About` avec des composants personnalisés (`AppHeader`, `AppFooter`) et une navigation par onglets.
+
+---
+
+
+
+2. **Démonstration** :
+   
+<img width="1918" height="954" alt="Lab2 1" src="https://github.com/user-attachments/assets/6c8c47a2-7f70-4f1b-b1c1-2ef82e5159e2" />
+
+
+<img width="1912" height="952" alt="Lab2 2" src="https://github.com/user-attachments/assets/55aa1b08-8b3a-4ea7-9641-c0ac998ada39" />
+
+
+   
+
