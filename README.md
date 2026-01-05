@@ -50,11 +50,6 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 
-# 📱 TP React Native – About Screen
-
-Ce projet est un TP réalisé avec **React Native** et **Expo Router**.  
-Il illustre la création d’un écran `About` avec des composants personnalisés (`AppHeader`, `AppFooter`) et une navigation par onglets.
-
 ---
 
 ##  Installation
