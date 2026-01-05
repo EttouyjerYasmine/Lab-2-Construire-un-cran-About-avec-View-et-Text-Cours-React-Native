@@ -80,5 +80,9 @@ Il illustre la création d’un écran `About` avec des composants personnalisé
 <img width="1912" height="952" alt="Lab2 2" src="https://github.com/user-attachments/assets/55aa1b08-8b3a-4ea7-9641-c0ac998ada39" />
 
 
-   
+# Auteurs :
+
+-Réalisé par : Ettouyjer yasmine.
+
+-Encadré par : Pr.Mohamed Lechgar.
 
